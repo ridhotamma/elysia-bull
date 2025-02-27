@@ -12,7 +12,11 @@ A plugin for Elysia.js that integrates Bull for handling background jobs and cro
 ## Installation
 
 ```bash
-npm install elysia-bull bullmq ioredis
+npm install elysia-bull
+```
+
+```bash
+bun add elysia-bull
 ```
 
 ## Usage
